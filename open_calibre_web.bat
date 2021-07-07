@@ -1,0 +1,6 @@
+ECHO OFF
+ECHO Starting calibre-web...
+start cps
+ECHO Opening web page...
+start "" http://localhost:8083
+PAUSE
